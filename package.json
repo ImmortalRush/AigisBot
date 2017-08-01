@@ -1,0 +1,11 @@
+{
+  "name": "Aigis",
+  "version": "1.0.0",
+  "description": "Best waifu",
+  "main": "bot.js",
+  "author": "Immortal",
+  "dependencies": {
+    "discord.io": "^2.5.1",
+    "winston": "^2.3.1"
+  }
+}
